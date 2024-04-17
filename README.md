@@ -1,4 +1,4 @@
-# Construindo-um-modelo-de-Regressao para-marketing
+# Construindo um modelo de Regressao para marketing
 No desenvolvimento deste projeto de modelagem de dados para análise de campanha de marketing, diversas etapas e ações foram realizadas para construir um modelo de regressão que possa prever o retorno de vendas com base nos investimentos em plataformas de publicidade online, como Youtube, Facebook e jornais. 
 
 Inicialmente, uma análise exploratória dos dados foi conduzida para compreender a distribuição das variáveis, identificar possíveis outliers e entender a relação entre os investimentos em publicidade e as vendas geradas. Isso incluiu a visualização dos dados por meio de gráficos e estatísticas descritivas para obter insights preliminares sobre o comportamento dos dados.
