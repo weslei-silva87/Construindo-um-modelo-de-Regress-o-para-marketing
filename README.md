@@ -11,11 +11,11 @@ Após a seleção e validação do modelo de regressão, foram realizadas análi
 
 Finalmente, para concluir o projeto, algumas soluções e recomendações podem ser propostas:
 
-1. **Otimização do Investimento:** Com base nos coeficientes estimados pelo modelo de regressão, a empresa pode identificar a plataformas de publicidade que têm o maior impacto positivo nas vendas. Isso permite uma alocação mais eficiente dos recursos de publicidade, sabendo que  Youtube tem sido o maior investimento. 
+1. Otimização do Investimento: Com base nos coeficientes estimados pelo modelo de regressão, a empresa pode identificar a plataformas de publicidade que têm o maior impacto positivo nas vendas. Isso permite uma alocação mais eficiente dos recursos de publicidade, sabendo que  Youtube tem sido o maior investimento. 
 
-2. **Experimentação Contínua:** O mercado de publicidade online está em constante evolução, portanto, é crucial para a empresa continuar experimentando com diferentes estratégias de publicidade e ajustando o modelo de regressão conforme necessário para refletir as mudanças no comportamento do consumidor e nas tendências do mercado.
+2. Experimentação Contínua: O mercado de publicidade online está em constante evolução, portanto, é crucial para a empresa continuar experimentando com diferentes estratégias de publicidade e ajustando o modelo de regressão conforme necessário para refletir as mudanças no comportamento do consumidor e nas tendências do mercado.
 
-3. **Monitoramento e Avaliação:** A empresa deve implementar um sistema robusto de monitoramento e avaliação para acompanhar regularmente o desempenho de suas campanhas de marketing. Isso permitirá que eles ajustem suas estratégias conforme necessário e garantam que estão alcançando seus objetivos de vendas.
+3. Monitoramento e Avaliação: A empresa deve implementar um sistema robusto de monitoramento e avaliação para acompanhar regularmente o desempenho de suas campanhas de marketing. Isso permitirá que eles ajustem suas estratégias conforme necessário e garantam que estão alcançando seus objetivos de vendas.
 
 Em resumo, o desenvolvimento deste projeto envolveu várias etapas, desde a preparação dos dados até a implementação e interpretação de um modelo de regressão para prever o retorno de vendas com base nos investimentos em publicidade. Ao seguir estas etapas e adotar soluções recomendadas, a empresa pode obter insights valiosos para otimizar suas estratégias de marketing e impulsionar seu desempenho de vendas.
 
